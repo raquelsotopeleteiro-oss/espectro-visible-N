@@ -13,7 +13,7 @@ const timeline = [
 ];
 
 const women=[
- {name:"Marie Skłodowska Curie", date:"1898–1911", lead:"Convirtió una observación en un programa de investigación cuantitativo.", detail:"Acuñó «radiactividad», investigó sistemáticamente minerales y compartió el Nobel de Física de 1903. Recibió el Nobel de Química de 1911 por el radio y el polonio."},
+ {name:"Marie Skłodowska Curie", date:"1898–1911", img:'/images/marie-curie.jpg',lead:"Convirtió una observación en un programa de investigación cuantitativo.", detail:"Acuñó «radiactividad», investigó sistemáticamente minerales y compartió el Nobel de Física de 1903. Recibió el Nobel de Química de 1911 por el radio y el polonio."},
  {name:"Irène Joliot-Curie", date:"1934–1935", lead:"Demostró que podían producirse radioisótopos en el laboratorio.", detail:"Junto con Frédéric Joliot-Curie descubrió la radiactividad artificial y recibió el Nobel de Química de 1935."},
  {name:"Lise Meitner", date:"1938–1939", lead:"Explicó el mecanismo físico de la fisión nuclear.", detail:"Con Otto Frisch interpretó la fragmentación del núcleo y estimó la energía liberada. El Nobel de Química de 1944 fue concedido únicamente a Otto Hahn."}
 ];
